@@ -959,9 +959,9 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [x] singleton
         - [x] adapter
         - [ ] prototype
-        - [ ] decorator
-        - [ ] visitor
-        - [ ] factory, abstract factory
+        - [x] decorator
+        - [x] visitor
+        - [x] factory, abstract factory
         - [ ] facade
         - [ ] observer
         - [ ] proxy
